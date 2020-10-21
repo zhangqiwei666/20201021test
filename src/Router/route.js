@@ -1,8 +1,8 @@
-import Login from '../Login/index'
-import Home from '../Page/Home/index'
-import User from '../Page/User/index'
-import Main from '../Page/User/main'
-import Info from '../Page/User/info'
+import Login from 'src/Login/index'
+import Home from 'src/Page/Home/index'
+import User from 'src/Page/User/index'
+import Main from 'src/Page/User/main'
+import Info from 'src/Page/User/info'
 
 let router = [
     {
